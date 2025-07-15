@@ -23,7 +23,7 @@ A machine learning project focused on classifying heart disease using the K-Near
   - Re-trained the final model and evaluated performance on test data.
 
 
-## 📊 Model Results
+## Model Results
 
 | Metric     | Before Tuning | After Tuning |
 |------------|----------------|---------------|
