@@ -1,8 +1,7 @@
-# 🫀 Heart Disease Classification with KNN
+# Heart Disease Classification with KNN
 
 A machine learning project focused on classifying heart disease using the K-Nearest Neighbors (KNN) algorithm. Developed using the tidymodels framework in R, this project demonstrates strong skills in data preprocessing, model tuning, and evaluation. The objective was to build a robust and interpretable model while navigating real-world challenges, such as performance trade-offs in healthcare applications.
 
----
 
 ## Tech Stack
 
@@ -12,7 +11,6 @@ A machine learning project focused on classifying heart disease using the K-Near
 - **Evaluation**: Cross-validation, Accuracy, Precision, Recall, Confusion Matrix  
 - **Visualization**: ggplot2  
 
----
 
 ## Project Highlights
 
@@ -24,7 +22,6 @@ A machine learning project focused on classifying heart disease using the K-Near
   - Performed 5-fold cross-validation and hyperparameter tuning to find optimal `k`.
   - Re-trained the final model and evaluated performance on test data.
 
----
 
 ## 📊 Model Results
 
@@ -38,9 +35,7 @@ A machine learning project focused on classifying heart disease using the K-Near
 - High **precision** reduces false positives—important in clinical screening.
 - Lower **recall** reveals a trade-off: missed cases, highlighting the challenge of medical ML.
 
----
-
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 - Applied end-to-end ML workflow using `tidymodels`.
 - Built reproducible pipelines with clear preprocessing steps.
@@ -48,9 +43,8 @@ A machine learning project focused on classifying heart disease using the K-Near
 - Performed metric-driven hyperparameter optimization.
 - Interpreted model performance in a healthcare context.
 
----
 
-## 📌 Notes
+## Notes
 
 - Dataset derived from the [UCI Heart Disease dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 - All analysis was done in R using a reproducible pipeline.
